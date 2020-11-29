@@ -11,8 +11,8 @@ Crawling with a spider:
 Placed in the folder which contains scrapy.cfg: 
     scrapy crawl spider_name -o output_file_name.extension 
 
-Placed on WebScraping_Udemy\worldometers exdecute:
+Placed on WebScraping_Udemy\worldometers execute:
     scrapy crawl countries -o dataset_file.json
 
-Placed on WebScraping_Udemy\tinydeals exdecute:
+Placed on WebScraping_Udemy\tinydeals execute:
     scrapy crawl special_offers -o dataset_file.json
